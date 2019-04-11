@@ -58,4 +58,4 @@
 $ yarn install
 $ yarn run serve
 ```
-*Готовое решение: https://github.com/iouomo/routes*
+*Готовое решение: https://iouomo.github.io/routes/*
